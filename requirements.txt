@@ -1,0 +1,10 @@
+Flask
+requests
+pymongo
+python-dotenv
+markdown
+pypdf
+sentence-transformers
+faster-whisper
+numpy
+gunicorn
