@@ -11,3 +11,4 @@ numpy
 gunicorn
 torch==2.8.0+cpu
 torchaudio==2.8.0+cpu
+groq
