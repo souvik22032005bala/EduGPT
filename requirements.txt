@@ -1,3 +1,4 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
 Flask
 requests
 pymongo
@@ -8,3 +9,5 @@ sentence-transformers
 faster-whisper
 numpy
 gunicorn
+torch==2.8.0+cpu
+torchaudio==2.8.0+cpu
